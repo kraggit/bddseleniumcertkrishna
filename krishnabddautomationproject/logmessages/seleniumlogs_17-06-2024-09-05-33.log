@@ -1,0 +1,2 @@
+2024-06-17 09:05:33 DEBUG BrowserUtil.getDriver():19 - testing
+2024-06-17 09:05:33 DEBUG BrowserUtil.getDriver():21 - Browser value is null. Hence launching Firefox as default browser
